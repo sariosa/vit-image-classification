@@ -11,14 +11,8 @@ This project showcases an image classification model using **Vision Transformers
 
 ## 📁 Project Files
 
-- `ImageClassificationwithViT_streamlit.ipynb`: Core model and logic
-- `StreamlitImageModel.ipynb`: Streamlit UI implementation
-- `requirements.txt`: Python dependencies for running the app
+- `ImageClassificationwithViT_streamlit.py`: Core model and logic
+- `StreamlitImageModel.py`: Streamlit UI implementation
 
-## 🛠️ Installation
 
-1. Clone the repo or download the files.
-2. Install dependencies:
 
-```bash
-pip install -r requirements.txt
